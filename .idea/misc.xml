@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/Factory-method/pom.xml" />
         <option value="$PROJECT_DIR$/factory-method/pom.xml" />
+        <option value="$PROJECT_DIR$/abstract-factory/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
