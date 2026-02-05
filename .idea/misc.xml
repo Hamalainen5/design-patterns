@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/abstract-factory/pom.xml" />
         <option value="$PROJECT_DIR$/Composite/pom.xml" />
         <option value="$PROJECT_DIR$/observer/pom.xml" />
+        <option value="$PROJECT_DIR$/singleton/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
