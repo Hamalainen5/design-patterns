@@ -11,6 +11,7 @@
         <module name="observer" />
         <module name="decorator" />
         <module name="composite" />
+        <module name="state" />
         <module name="abstract-factory" />
       </profile>
     </annotationProcessing>
