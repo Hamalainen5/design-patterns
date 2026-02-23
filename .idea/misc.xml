@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/singleton/pom.xml" />
         <option value="$PROJECT_DIR$/decorator/pom.xml" />
         <option value="$PROJECT_DIR$/state/pom.xml" />
+        <option value="$PROJECT_DIR$/template-method/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
