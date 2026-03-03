@@ -13,6 +13,7 @@
         <module name="decorator" />
         <module name="composite" />
         <module name="state" />
+        <module name="strategy" />
         <module name="abstract-factory" />
       </profile>
     </annotationProcessing>
