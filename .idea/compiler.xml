@@ -14,6 +14,7 @@
         <module name="composite" />
         <module name="state" />
         <module name="strategy" />
+        <module name="chain-of-responsibility" />
         <module name="abstract-factory" />
       </profile>
     </annotationProcessing>
