@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/template-method/pom.xml" />
         <option value="$PROJECT_DIR$/strategy/pom.xml" />
         <option value="$PROJECT_DIR$/chain-of-responsibility/pom.xml" />
+        <option value="$PROJECT_DIR$/memento/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
