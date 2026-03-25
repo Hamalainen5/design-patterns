@@ -7,17 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="singleton" />
+        <module name="template-method" />
+        <module name="decorator" />
+        <module name="memento" />
+        <module name="abstract-factory" />
         <module name="factory-method" />
         <module name="observer" />
-        <module name="template-method" />
         <module name="proxy" />
-        <module name="decorator" />
         <module name="composite" />
-        <module name="memento" />
         <module name="state" />
         <module name="strategy" />
+        <module name="visitor" />
         <module name="chain-of-responsibility" />
-        <module name="abstract-factory" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
