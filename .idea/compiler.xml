@@ -10,6 +10,7 @@
         <module name="factory-method" />
         <module name="observer" />
         <module name="template-method" />
+        <module name="proxy" />
         <module name="decorator" />
         <module name="composite" />
         <module name="memento" />

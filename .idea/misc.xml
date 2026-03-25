@@ -16,6 +16,7 @@
         <option value="$PROJECT_DIR$/strategy/pom.xml" />
         <option value="$PROJECT_DIR$/chain-of-responsibility/pom.xml" />
         <option value="$PROJECT_DIR$/memento/pom.xml" />
+        <option value="$PROJECT_DIR$/proxy/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
