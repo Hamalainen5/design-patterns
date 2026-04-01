@@ -18,6 +18,7 @@
         <option value="$PROJECT_DIR$/memento/pom.xml" />
         <option value="$PROJECT_DIR$/proxy/pom.xml" />
         <option value="$PROJECT_DIR$/visitor/pom.xml" />
+        <option value="$PROJECT_DIR$/builder/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
