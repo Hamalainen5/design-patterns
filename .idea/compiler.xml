@@ -9,6 +9,7 @@
         <module name="singleton" />
         <module name="template-method" />
         <module name="decorator" />
+        <module name="adapter" />
         <module name="memento" />
         <module name="abstract-factory" />
         <module name="factory-method" />
