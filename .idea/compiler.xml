@@ -22,6 +22,7 @@
         <module name="bridge" />
         <module name="strategy" />
         <module name="visitor" />
+        <module name="mediator" />
         <module name="chain-of-responsibility" />
       </profile>
     </annotationProcessing>
