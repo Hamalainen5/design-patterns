@@ -11,6 +11,7 @@
         <module name="decorator" />
         <module name="adapter" />
         <module name="memento" />
+        <module name="prototype" />
         <module name="abstract-factory" />
         <module name="factory-method" />
         <module name="observer" />
@@ -18,6 +19,7 @@
         <module name="composite" />
         <module name="builder" />
         <module name="state" />
+        <module name="bridge" />
         <module name="strategy" />
         <module name="visitor" />
         <module name="chain-of-responsibility" />
