@@ -16,6 +16,7 @@
         <module name="factory-method" />
         <module name="observer" />
         <module name="proxy" />
+        <module name="iterator" />
         <module name="composite" />
         <module name="builder" />
         <module name="state" />
