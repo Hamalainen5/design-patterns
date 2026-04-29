@@ -6,30 +6,77 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="singleton" />
-        <module name="template-method" />
-        <module name="decorator" />
-        <module name="adapter" />
-        <module name="memento" />
+        <module name="visitor (1) (org.example)" />
+        <module name="composite (2)" />
+        <module name="prototype (2)" />
+        <module name="state (2)" />
+        <module name="adapter (2)" />
+        <module name="template-method (1) (org.example)" />
+        <module name="chain-of-responsibility (2)" />
         <module name="facade" />
-        <module name="prototype" />
-        <module name="abstract-factory" />
-        <module name="factory-method" />
-        <module name="observer" />
-        <module name="proxy" />
+        <module name="factory-method (2)" />
+        <module name="memento (1) (org.example)" />
+        <module name="decorator (2)" />
         <module name="iterator" />
-        <module name="composite" />
-        <module name="builder" />
-        <module name="state" />
-        <module name="bridge" />
-        <module name="strategy" />
-        <module name="visitor" />
-        <module name="mediator" />
-        <module name="chain-of-responsibility" />
+        <module name="observer (1)" />
+        <module name="singleton (2)" />
+        <module name="builder (2) (org.example)" />
+        <module name="abstract-factory (2)" />
+        <module name="visitor (2)" />
+        <module name="strategy (2)" />
+        <module name="state (1) (org.example)" />
+        <module name="prototype (1) (org.example)" />
+        <module name="composite (1)" />
+        <module name="proxy (2)" />
+        <module name="memento (2)" />
+        <module name="mediator (1) (org.example)" />
+        <module name="template-method (2)" />
+        <module name="bridge (1)" />
+        <module name="factory-method (1)" />
+        <module name="proxy (1) (org.example)" />
+        <module name="command" />
+        <module name="builder (1)" />
+        <module name="decorator (1)" />
+        <module name="observer (2)" />
+        <module name="singleton (1)" />
+        <module name="bridge (2) (org.example)" />
+        <module name="abstract-factory (1)" />
+        <module name="mediator (2)" />
+        <module name="strategy (1) (org.example)" />
+        <module name="adapter (1) (org.example)" />
+        <module name="chain-of-responsibility (1) (org.example)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="abstract-factory" target="25" />
+      <module name="adapter" target="25" />
+      <module name="adapter (1)" target="1.5" />
+      <module name="bridge" target="25" />
+      <module name="builder" target="25" />
+      <module name="chain-of-responsibility" target="25" />
+      <module name="chain-of-responsibility (1)" target="1.5" />
+      <module name="composite" target="25" />
+      <module name="decorator" target="25" />
       <module name="Factory-method" target="25" />
+      <module name="factory-method" target="25" />
+      <module name="mediator" target="25" />
+      <module name="mediator (1)" target="1.5" />
+      <module name="memento" target="25" />
+      <module name="memento (1)" target="1.5" />
+      <module name="observer" target="25" />
+      <module name="prototype" target="25" />
+      <module name="prototype (1)" target="1.5" />
+      <module name="proxy" target="25" />
+      <module name="proxy (1)" target="1.5" />
+      <module name="singleton" target="25" />
+      <module name="state" target="25" />
+      <module name="state (1)" target="1.5" />
+      <module name="strategy" target="25" />
+      <module name="strategy (1)" target="1.5" />
+      <module name="template-method" target="25" />
+      <module name="template-method (1)" target="1.5" />
+      <module name="visitor" target="25" />
+      <module name="visitor (1)" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
